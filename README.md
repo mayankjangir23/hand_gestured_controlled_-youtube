@@ -4,15 +4,15 @@ A computer vision project built using Python and MediaPipe that allows you to co
 
 ✨ Features
 
-Open YouTube Video/Playlist with a five-finger gesture.
+Open YouTube Video/Playlist with a five-finger gesture.🖐️
 
-Close YouTube Tab with a closed-fist gesture.
+Close YouTube Tab with a closed-fist gesture.✊
 
 Adjust System Volume using a pinch gesture:
 
-Pinch inwards to increase volume.
+Pinch inwards to increase volume.🤏
 
-Pinch outwards to decrease volume.
+Pinch outwards to decrease volume.🤏
 
 Real-time gesture detection using webcam and MediaPipe.
 
@@ -35,3 +35,6 @@ PyAutoGUI
 Pycaw (for Windows system volume control)
 
 Webbrowser (built-in module for opening URLs)
+========================================================================================================
+this project is still in building phase and may throw errors in return. The code is complete for the things mentioned above and i am planning to add many new feautures as well in the future.
+Thank you.
