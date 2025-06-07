@@ -38,3 +38,12 @@ Webbrowser (built-in module for opening URLs)
 ========================================================================================================
 this project is still in building phase and may throw errors in return. The code is complete for the things mentioned above and i am planning to add many new feautures as well in the future.
 Thank you.
+
+date:- 7/6/2025
+changes added in the project
+I removed the pinch zoom in to increase the volume and pinch zoom out to decrease the volume as the gesture was conflicting with the previous gestures.
+So i added some other gestures to control the volume without making any conflict
+1. One finger Up = 20% volume👆
+2. Two finger Up = 40% volume✌️
+3. Three finger Up = 60% volume👌
+4. Four finger Up = 100% volume🖐️
